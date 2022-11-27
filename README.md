@@ -1,4 +1,4 @@
-# node-sever-ramdomly-hang
+# node-sever-randomly-hang
 node server hung, control-c rerumes the node server.
 
 When I use nodejs to run express, I often encount an issue randomly. when I submit a request from my brower, my running node server randomly hung and it doesn't process my request, and my browser can't get response.
